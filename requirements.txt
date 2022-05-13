@@ -1,0 +1,4 @@
+serial
+smbus
+numpy
+pynput
